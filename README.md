@@ -9,5 +9,5 @@ Live preview [here](https://zhenglinlei.github.io/Morse-beep)
 ### Love this repo? Give us a star ⭐
 
 <a href="./">
-  <img src="https://img.shields.io/badge/Imgslide-Rate-blue">
+  <img src="https://img.shields.io/badge/Morse%20beep-Rate-blue">
 </a>
